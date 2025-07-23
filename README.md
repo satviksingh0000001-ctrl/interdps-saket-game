@@ -17,9 +17,11 @@ README
 to run the game:
 
 1 you need to have at least python 3 installed 
+
 2 you need to install py game module 
   (if you don't), paste this command in cmd  "pip install pygame" OR just run the requirement.txt file in cmd by changing your directory to the downloaded game file with "cd" command.
-3 now finally run, "play.bat file in the game folder
+
+3 now finally run, "play game.bat" file in the game folder ie. "inter dps game by satvik,shaurya,dharya,faiz"
 
 controls:
 you can use arrow keys to control selected character's movement
